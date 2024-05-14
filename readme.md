@@ -9,3 +9,6 @@ For a `TimerTrigger` to work, you provide a schedule in the form of a [cron expr
 ## Learn more
 
 <TODO> Documentation
+Create a resource group: `learn`
+Function app name: `funclabs01`
+Storage account: `funclabsstorage`
